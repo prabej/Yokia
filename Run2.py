@@ -1,3 +1,5 @@
+#sb=SyIaZqewAlGvBWBtmbwtL-Zs;vpd=v1%3B572x307x2.339515209197998;wd=308x572;fr=0x2wuzZmFa1opdmmR.AWW14_kPEqEMpJ2LAe0Qxj8rOqE.BmGiJL..AAA.0.0.BmHDbG.AWVMSSm-2xM;c_user=100065388204614;xs=10%3AVQsXTmbLXlNnbQ%3A2%3A1713125062%3A-1%3A3655;locale=id_ID;wl_cbv=v2%3Bclient_version%3A2464%3Btimestamp%3A1713125064;
+
 # Obfuscated with PyObfuscate
 # https://www.github.com/htr-tech
 # Time : Mon Apr 15 13:11:46 2024
